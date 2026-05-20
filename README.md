@@ -25,9 +25,16 @@
 | **⬅️ Arrow Left** | Move Left |
 | **➡️ Arrow Right** | Move Right |
 
+
 **Objective:** Avoid the incoming dragon obstacles and survive as long as possible to maximize your score!
 
 ## 🚀 Quick Start
+
+ Game Mechanics
+Collision Detection - Pixel-perfect collision between dino and obstacles
+Difficulty Scaling - Obstacles move faster as your score increases
+Score Calculation - Points awarded based on survival time
+Sound Feedback - Audio cues for jumps, collisions, and score milestones
 
 ### Prerequisites
 - A modern web browser (Chrome, Firefox, Safari, Edge)
