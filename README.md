@@ -20,4 +20,6 @@ This project is inspired by the Chrome Dino game with a custom dragon theme and 
 
 
 **Author**
+
+
 **Rudra Prakash**
