@@ -14,12 +14,4 @@ HTML5
 CSS3 Animations
 JavaScript (DOM, Events, Audio, Collision Logic)
 
-🚀 Live Gameplay Concept
 
-This project is inspired by the Chrome Dino game with a custom dragon theme and added sound effects.
-
-
-**Author**
-
-
-**Rudra Prakash**
